@@ -1,0 +1,1 @@
+import{_ as n,a as r,o as s,c as o,b as t,F as c}from"./index-cb641f8f.js";const a={};function i(p,_){const e=r("m-progress");return s(),o(c,null,[t(e,{isAnimation:"",percentage:60}),t(e,{"text-inside":!0,"stroke-width":22,percentage:80,status:"warning"}),t(e,{type:"circle",percentage:25})],64)}const l=n(a,[["render",i]]);export{l as default};
