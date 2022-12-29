@@ -1,1 +1,0 @@
-import{d as a,a as s,o as r,f as i,u as o}from"./index-cb641f8f.js";const m=a({__name:"index",setup(l){let n=e=>{console.log(e)},c=e=>{console.log(e)};return(e,_)=>{const t=s("m-choose-city");return r(),i(t,{onChangeCity:o(n),onChangeProvince:o(c)},null,8,["onChangeCity","onChangeProvince"])}}});export{m as default};

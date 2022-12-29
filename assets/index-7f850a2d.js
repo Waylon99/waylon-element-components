@@ -1,1 +1,0 @@
-import{_,a,o as c,c as s,b as t,w as o,F as d,e as n}from"./index-cb641f8f.js";const r={};function f(p,l){const e=a("m-trend");return c(),s(d,null,[t(e,{upIcon:"CaretTop"},{default:o(()=>[n("营业额")]),_:1}),t(e,{downIcon:"CaretBottom",type:"down"},{default:o(()=>[n("销售额")]),_:1})],64)}const u=_(r,[["render",f],["__scopeId","data-v-d08ff78c"]]);export{u as default};
